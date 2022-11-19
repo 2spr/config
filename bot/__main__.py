@@ -194,7 +194,7 @@ def log(update, context):
 
 
 help_string = '''
-<b><a href='https://github.com/weebzone/WZML'>WeebZone</a></b> - The Ultimate Telegram MIrror-Leech Bot to Upload Your File & Link in Google Drive & Telegram
+<b>A Powerful Bot to directly Mirror to Google Drive or Leech to Telegram, with Multi Direct Links Support for Enhanced Mirror-Leech from</b> - <b><a href='https://t.me/HombaleCinemas'>Hombale Cinemas</a></b>
 Choose a help category:
 '''
 
